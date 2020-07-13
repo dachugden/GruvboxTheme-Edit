@@ -936,7 +936,7 @@ headerbar,
     background-color: #282828; }
     .csd headerbar:backdrop,
     .csd .titlebar:backdrop:not(headerbar) {
-      background-color: rgba(60, 56, 54, 0.97); }
+      background-color: #292828; }
   headerbar .title, .titlebar:not(headerbar) .title {
     padding-left: 12px;
     padding-right: 12px; }
